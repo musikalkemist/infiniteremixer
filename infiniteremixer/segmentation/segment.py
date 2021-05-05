@@ -19,7 +19,7 @@ def segment():
     parser.add_argument("save_dir",
                         help="directory where to save generated audio files "
                              "for beats")
-    parser.add_argument("-r", "--sample_rate",
+    parser.add_argument("-r", "--sample_rate", type=int,
                         help="sample rate for processing audio files",
                         default=22050)
 
