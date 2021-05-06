@@ -48,9 +48,9 @@ generate a remix, which will leverage the preprocessed data.
 ### Preprocessing
 To preprocess data follow these steps:
 
-1- Segment a group of tracks into beats
-2- Extract features and prepare data from the beats
-3- Fit a Nearest Neighbour object
+1. Segment a group of tracks into beats
+2. Extract features and prepare data from the beats
+3. Fit a Nearest Neighbour object
 
 To run the steps above, use the entry points below. You can find more info 
 on the entry points, in the respective modules.
@@ -88,9 +88,3 @@ nearest neighbour search:
 ## YouTube video
 Learn more about Infinite Remixer in this project presentation video on The 
 Sound of AI YouTube channel.
-
-
-
-
-
-
